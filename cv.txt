@@ -1,2 +1,3 @@
 "ini adalah file CV" 
 "perusahaan pertama" 
+"perusahaan kedua" 
